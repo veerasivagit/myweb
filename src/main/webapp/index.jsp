@@ -1,5 +1,18 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jenkins Pipeline Completed</title>
+</head>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  Pavan kalyan Aningi</h1>
+    <h1>Jenkins Pipeline Completed!</h1>
+    <p>The pipeline has been successfully executed by the following team members:</p>
+    <ul>
+        <li>Pavan</li>
+        <li>Vinay</li>
+        <li>Suresh</li>
+        <li>Jagadeesh</li>
+    </ul>
 </body>
 </html>
