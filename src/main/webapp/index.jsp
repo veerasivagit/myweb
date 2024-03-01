@@ -6,7 +6,7 @@
     <title>Master&Slave</title>
 </head>
 <body>
-    <h1>Jenkins Pipeline Completed!</h1>
+    <h1>Master and Slave Completed!</h1>
     <p>The pipeline has been successfully executed by the following team members:</p>
     <ul>
         <li>Pavan</li>
