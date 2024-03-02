@@ -2,17 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
-    <title>Master&Slave</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manager Name</title>
 </head>
 <body>
-    <h1>Master and Slave Completed!</h1>
-    <p>The pipeline has been successfully executed by the following team members:</p>
-    <ul>
-        <li>Pavan</li>
-        <li>Vinay</li>
-        <li>Suresh</li>
-        <li>Jagadeesh</li>
-    </ul>
+    <h1>Manager's Name: Vinod</h1>
 </body>
 </html>
