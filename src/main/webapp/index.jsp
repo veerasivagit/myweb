@@ -43,7 +43,7 @@
 </head>
 <body>
 <div class="container">
-  <h1>AWS DevOps Training by Pavan</h1>
+  <h1>AWS DevOps Training by subrahmanyam</h1>
   <p>Welcome to our AWS DevOps training session! We'll cover various aspects of AWS and DevOps practices to enhance your skills.</p>
   <p>Topics include:</p>
   <ul>
@@ -72,6 +72,6 @@ working. Further configuration is required.</p>
 Commercial support is available at
 <a href="http://nginx.com/">nginx.com</a>.</p>
 
-<p><em>Thank you -Pavan kalyan.</em></p>
+<p><em>Thank you -manikanta,harish,akhil,subrahmanyam.</em></p>
 </body>
 </html>
