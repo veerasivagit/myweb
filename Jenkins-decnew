@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage("Git Checkout"){
             steps{
-                git credentialsId:  'tomcat', url: 'https://github.com/veerasivagit/myweb.git'
+                git credentialsId: 'tomcat', url: 'https://github.com/veerasivagit/myweb.git'
             }
         }
         stage("Maven Build"){
